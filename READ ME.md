@@ -15,7 +15,7 @@ The central interactive mechanism is drawn from the Fox's unforgettable farewell
 
 This translates beautifully to:
 
-"And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me. You will always be my friend. You will want to laugh with me. And you will open your window, sometimes, just for pleasure... And your friends will be very surprised to see you smiling as you look up at the sky. But you will explain to them: 'Yes, the stars always make me laugh!'"
+"And when you look at the sky at night, since I shall be living on one of them, since I shall be laughing on one of them, it will be as if all the stars were laughing. You will have stars that can laugh!"
 
 The project aims to embody this concept: a simple click on the desktop brings a moment of joy (the "laughing star") that the Fox companion reacts to.
 
@@ -39,5 +39,6 @@ You need a working Python 3.x environment.
 
 
 Contributing
+
 
 Contributions are welcome!
